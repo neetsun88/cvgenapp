@@ -1,0 +1,10 @@
+# Core application framework
+Flask==3.0.3
+
+# Scrapegraph ai
+scrapegraphai==1.16.0
+playwright==1.46.0
+nest-asyncio==1.6.0
+
+#web server
+gunicorn==23.0.0
